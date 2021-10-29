@@ -11,6 +11,21 @@ Since 2016, I am an active member of the [Sailing Team Darmstadt e.V.](https://w
 which is a non-profit student group based in at the [TU Darmstadt, Germany](https://www.tu-darmstadt.de/).
 Our goal is to develop fully autonomous sailing boats capable of navigating the open sea.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/stda_2020_oct.jpg" data-zoomable>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/stda_2021_jul.jpg" data-zoomable>
+    </div>
+</div>
+
+<small>
+<br/>
+With kind permission from © Sailing Team Darmstadt e.V.
+More images can be found on Instagram: [*@sailingteam_darmstadt*](https://www.instagram.com/sailingteam_darmstadt/).
+</small>
+
 ## Software Contributions
 
 Over the years, I spent countless hours developing software for the boat(s).

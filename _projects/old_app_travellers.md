@@ -5,5 +5,5 @@ title: "Travellers"
 description: "As a contractor for we {code} it: Matching locals with travellers"
 importance: 1
 category: past
-redirect: ""
+no_redirect: true
 ---

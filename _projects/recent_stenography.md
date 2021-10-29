@@ -6,5 +6,5 @@ description: "An app to help learn how to write german shorthand. Private contra
 importance: 1
 img: /assets/img/stenography.png
 category: recent
-redirect: ""
+no_redirect: true
 ---

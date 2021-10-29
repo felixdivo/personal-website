@@ -6,5 +6,6 @@ description: "Supporting facility managers by providing relevant laws and regula
 importance: 1
 img: /assets/img/smart-ih.png
 category: recent
-redirect: "" # https://smart-ih.de/
+no_redirect: true
+# redirect: "" # https://smart-ih.de/
 ---

@@ -1,7 +1,9 @@
 <!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  {% if project.redirect -%}
+  {% if project.no_redirect %}
+  <a>
+  {% else if project.redirect %}
   <a href="{{ project.redirect }}">
   {% else %}
   <a href="{{ project.url | relative_url }}">
@@ -18,7 +20,7 @@
           {% if project.title_icon %}
             <small class="card-title-icons">
               {% for icon in project.title_icon %}
-                <i class="{{ icon }}"></i>
+                <i class="{{ icon }}"></i>&#8239;
               {% endfor %}
             </small>
           {% endif %}
