@@ -128,6 +128,10 @@ blockquote {
   }
 }
 
+.post-footnote {
+  @extend .post-description;
+}
+
 
 // Navbar customization
 
@@ -400,6 +404,12 @@ footer.sticky-bottom {
   .card {
     img {
       width: 100%;
+    }
+    .card-title { /* TODO: check if this works with the dark theme */
+      color: $black-color;
+      .card-title-icons {
+        color: $grey-color-dark;
+      }
     }
   }
 

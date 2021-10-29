@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Projects
+title: Projects 💻
 permalink: /projects/
-description: A selection of applications I developed for various different clients.
+description: >
+  I work as a freelance software engineer, mainly for Android apps.
+  Here is a selection of the applications I developed for various clients.
+footnote: All licenses and trademarks are the property of their respective owners.
 nav: true
-<<<<<<< HEAD
 nav_order: 2
-display_categories: [work, fun]
-=======
-display_categories: [work] # fun
->>>>>>> 7d2e393 (Some new changes)
+display_categories: [recent, past]
 horizontal: false
 ---
 
