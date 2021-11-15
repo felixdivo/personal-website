@@ -2,7 +2,7 @@
 <div class="grid-sizer"></div>
 <div class="grid-item">
   {% if project.no_redirect %}
-  <a>
+  <div>
   {% else if project.redirect %}
   <a href="{{ project.redirect }}">
   {% else %}
@@ -37,5 +37,10 @@
           </div>
         </div>
       </div>
-    </a>
+    </div>
+  {% if project.no_redirect %}
+  </div>
+  {% else %}
+  </a>
+  {% endif %}
 </div>
