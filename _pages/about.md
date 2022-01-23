@@ -1,7 +1,6 @@
 ---
 layout: about
-title:
-  👋 About
+title: 👋 About
 permalink: /
 description: Student. Freelance Software Developer. Hobby Tinkerer.
 
@@ -21,12 +20,12 @@ As a <u>computer science student</u> and <u>software developer</u>, I am passion
 - building [smart and robust systems](robotic_sailing).
 - interdisciplinary [research](publications) and development.
 - following both foundational & applied research.
-- [open source collaboration](bio).
+- [open source collaboration](bio#open-source-contributions).
 - automation and [programming](projects).
 
 In my <u>free time</u>, I enjoy …
 
-- strolling through forests 🌳.
 - playing [underwater rugby](https://en.wikipedia.org/wiki/Underwater_rugby) and (board) games.
 - sailing (and especially navigation).
+- strolling through forests.<!--🌳-->
 - pondering social questions.

@@ -3,6 +3,7 @@ layout: page
 title: Robotic Sailing ⛵
 permalink: /robotic_sailing/
 nav: true
+# description: ""  # Not properly formatted
 display_categories: [work, fun]
 horizontal: false
 ---
@@ -20,7 +21,7 @@ Our goal is to develop fully autonomous sailing boats capable of navigating the 
     </div>
 </div>
 
-<small>
+<small style="font-weight: lighter">
 <br/>
 With kind permission from © Sailing Team Darmstadt e.V.
 More images can be found on Instagram: [*@sailingteam_darmstadt*](https://www.instagram.com/sailingteam_darmstadt/).
