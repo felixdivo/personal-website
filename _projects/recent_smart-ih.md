@@ -7,7 +7,7 @@ description: >
     Android app + backend server.
     To be released.
 importance: 1
-img: /assets/img/smart-ih.png
+img: assets/img/smart-ih.png
 category: recent
 no_redirect: true
 # redirect: "" # https://smart-ih.de/
