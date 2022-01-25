@@ -7,7 +7,7 @@ first_name: Felix
 middle_name:
 last_name: Divo
 email: felix@divo.link
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: >
   The personal website of me, Felix Divo. I'm a computer scientist and tinkerer.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> an the wondeful <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -15,10 +15,10 @@ footer_text: >
   # <a href="??">Imprint / Impressum</a>.
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 👨‍💻 # the emoji used as the favicon
-url: http://localhost:4000 # the base hostname & protocol for your site
+url: https://felix.divo.link # the base hostname & protocol for your site; For local builds: http://localhost:4000
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # RSS Feed
@@ -152,6 +152,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - README.md
+  - CONTRIBUTING.md
+  - HOW TO SET UP.md
 keep_files:
   - CNAME
   - .nojekyll

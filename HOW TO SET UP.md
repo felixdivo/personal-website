@@ -6,3 +6,5 @@ gem install bundler
 bundler install
 bundler exec jekyll serve
 ```
+
+Also set `url: http://localhost:4000` in `_config.yml`.
