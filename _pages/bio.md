@@ -8,7 +8,7 @@ nav: true
 
 ### Education
 
-- 2019 — 2022: Studying *M.Sc. Informatik* (Computer Science), TU Darmstadt
+- 2019 — 2022: *M.Sc. Informatik* (Computer Science), TU Darmstadt
 - 2016 — 2019: *B.Sc. Informatik* (Computer Science), TU Darmstadt
 - Until 2016: Abitur, Lichtenbergschule Gymnasium, Darmstadt
 

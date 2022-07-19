@@ -1,7 +1,7 @@
-Go into the WSL if on Windows.
+Go into the WSL if on Windows. The floowing works on Ubuntu 22.04:
 
 ```bash
-sudo apt-get install ruby ruby-dev rmagic libmagickwand-dev
+sudo apt-get install ruby ruby-dev rmagic libmagickwand-dev make g++
 gem install bundler
 bundler install
 bundler exec jekyll serve
