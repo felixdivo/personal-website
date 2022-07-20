@@ -14,7 +14,7 @@ nav: true
 
 ### Work and Internship Experience
 
-- May 2020 — Sep. 2020: Student research assistant at [Fraunhofer Institute for Computer Graphics Research (IGD), Darmstadt](https://www.igd.fraunhofer.de/en)
+- May 2020 — Sep. 2020: Student research assistant at [Fraunhofer Institute for Computer Graphics Research (IGD), Darmstadt](https://www.igd.fraunhofer.de/en.html)
 - Apr. 2019 — Sep. 2019: Mentoring for second semester CS students at TU Darmstadt
 - Oct. 2017 — Mar. 2018: Mentoring for first semester CS students at TU Darmstadt
 - Nov. 2016 — now: Freelance software developer, contractor for *we {code} it* (2017 — 2019), see the dedicated [projects page](/projects)
