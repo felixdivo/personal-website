@@ -3,7 +3,7 @@ layout: page
 title: Projects 💻
 permalink: /projects/
 description: >
-  I work as a freelance software engineer, mainly for Android apps.
+  I have worked as a freelance software engineer, mainly for Android apps.
   Here is a selection of some applications I developed for various clients.
 footnote: All licenses and trademarks are the property of their respective owners.
 nav: true

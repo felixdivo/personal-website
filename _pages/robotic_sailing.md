@@ -58,4 +58,5 @@ and strategic decisions.
 
 - 2017 — 2019: Treasurer (*Finanzvorstand*)
 - 2019 — 2020: Vice Chairperson (*2. Vorsitzender*)
-- 2020 — now: Chairperson (*1. Vorsitzender*)
+- 2020 — 2022: Chairperson (*1. Vorsitzender*)
+- 2022 — now: Member of the board (*Beisitzer*)

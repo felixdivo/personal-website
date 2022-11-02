@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-As a <u>computer science student</u> and <u>software developer</u>, I am passionate about …
+As a <u>computer science researcher</u> and software developer, I am passionate about …
 
 - building [smart and robust systems](robotic_sailing).
 - interdisciplinary [research](publications) and development.
@@ -26,6 +26,6 @@ As a <u>computer science student</u> and <u>software developer</u>, I am passion
 In my <u>free time</u>, I enjoy …
 
 - playing [underwater rugby](https://en.wikipedia.org/wiki/Underwater_rugby) and (board) games.
-- sailing (and especially navigation).
+- sailing and travelling.
 - strolling through forests.<!--🌳-->
 - pondering social questions.
