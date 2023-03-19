@@ -52,6 +52,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
+# TODO: consider https://github.com/ryo-ma/github-profile-trophy
+
 github_username: felixdivo # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
