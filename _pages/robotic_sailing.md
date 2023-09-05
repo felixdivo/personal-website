@@ -30,22 +30,22 @@ More images can be found on Instagram: [*@sailingteam_darmstadt*](https://www.in
 ## Software Contributions
 
 Over the years, I spent countless hours developing software for the boat(s).
-While starting out as a small tinkering project, we steadily grew it into a rather professional-like development effort driven by the growth in memberships.
+While starting as a small tinkering project, we steadily grew it into a rather professional-like development effort driven by the growth in memberships.
 One of my main contributions there were the modularization of the large codebase that has grown over the years
 and the introduction of clear quality principles supported by extensive [CI tools](https://docs.gitlab.com/ee/ci/).
 Additionally, I developed (mostly in [Python](https://www.python.org/)):
 
-- A foundational library for working with cartesian (`x, y`) and polar (`latitude, longitude`) geometries.
+- A foundational library for working with cartesian `(x, y)` and polar `(latitude, longitude)` geometries.
 - Import and transformation of various data formats, like [nautical navigation charts (ENCs)](https://en.wikipedia.org/wiki/Electronic_navigational_chart) and [topography data](https://www.asg.ed.tum.de/iapg/forschung/topographie/earth2014/).
 - Tools for creating globe-spanning navigation graphs and augmenting them with datasets.
 - A system for managing [local tangent plane coordinates (LTPs)](https://en.wikipedia.org/wiki/Local_tangent_plane_coordinates) and object permanence.
 - Interfacing with [hardware](https://www.st-darmstadt.de/ueber-uns/boote/), among others using the [python-can](https://pypi.org/project/python-can/) library of which I am now [one of the core developers](https://github.com/hardbyte/python-can/graphs/contributors).
-- A novel tool for writing declarative test cases for [ROS2](https://docs.ros.org/en/rolling/).
+- A novel tool for writing [declarative test cases for ROS2](https://github.com/felixdivo/ros2-easy-test).
 - [Property-based](https://hypothesis.works/) and [mutation](https://mutmut.readthedocs.io/en/latest/) testing.
 - A lot of infrastructure and tooling behind the scenes.
 - More …
 
-Most of the code is internal as of now but will be open-sourced soon.
+Most of the code is internal as of now but will be open-sourced eventually.
 
 ## Member of the board
 
@@ -59,4 +59,4 @@ and strategic decisions.
 - 2017 — 2019: Treasurer (*Finanzvorstand*)
 - 2019 — 2020: Vice Chairperson (*2. Vorsitzender*)
 - 2020 — 2022: Chairperson (*1. Vorsitzender*)
-- 2022 — now: Member of the board (*Beisitzer*)
+- 2022 — 2023: Member of the board (*Beisitzer*)
