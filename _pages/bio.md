@@ -8,7 +8,9 @@ nav: true
 
 ### Education
 
-- 2022 — now: *Ph.D. student*, [Artificial Intelligence and Machine Learning Lab](https://www.aiml.informatik.tu-darmstadt.de/), CS Department, TU Darmstadt, Germany
+- 2022 — now: *Ph.D. student*,
+  <a href="https://www.aiml.informatik.tu-darmstadt.de">AIML Lab</a> /
+  <a href="https://cause-lab.net/">CAUSE Lab</a>, <a href="https://www.informatik.tu-darmstadt.de/fb20/index.en.jsp">CS Department, TU Darmstadt</a>, Germany
 - 2019 — 2022: *M.Sc. Informatik* (Computer Science), TU Darmstadt, Germany
 - 2016 — 2019: *B.Sc. Informatik* (Computer Science), TU Darmstadt, Germany
 
@@ -26,12 +28,4 @@ nav: true
 
 ### Open Source Contributions
 
-I regularly contribute back to various projects that I use either professionaly, as a student, or othewise.
-
-<small style="font-weight: lighter">
-*Note: The following auto-generated statistics for GitHub are not always reliable, so please just visit my profile by clicking below.*
-</small>
-
-[
-  ![General GitHub user statistics of me](https://raw.githubusercontent.com/felixdivo/_github-stats/master/generated/overview.svg)
-](https://github.com/felixdivo#js-contribution-activity)
+I regularly contribute back to various projects I depend on. See [GitHub](https://github.com/felixdivo) for details.

@@ -2,7 +2,7 @@
 layout: about
 title: 👋 About
 permalink: /
-description: Student. Freelance Software Developer. Hobby Tinkerer.
+description: AI Researcher. Software Developer. Hobby Tinkerer.
 
 profile:
   align: right
@@ -10,22 +10,17 @@ profile:
   address: >
     <p><a href="https://en.wikipedia.org/wiki/Darmstadt" target="_blank">Darmstadt, Germany</a></p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-As a <u>computer science researcher</u> and software developer, I am passionate about …
+As an <u>AI Researcher</u>, I am passionate about …
 
-- building [smart and robust systems](robotic_sailing).
-- interdisciplinary [research](publications) and development.
-- following both foundational & applied research.
-- [open source collaboration](bio#open-source-contributions).
-- automation and [programming](projects).
+- opening the black box of time series forecasting to build models we can <i>trust</i>.
+- bridging opaque data domains with natural and formal languages.
+- tackling real-world challenges via interdisciplinary collaboration (finance, manufacturing, oncology, … yours next?).
+- exploring diverse ML frontiers like tractable probabilistic models (TPMs), graph neural networks (GNNs), large language models (LLMs), and causal discovery.
 
-In my <u>free time</u>, I enjoy …
-
-- playing [underwater rugby](https://en.wikipedia.org/wiki/Underwater_rugby) and (board) games.
-- sailing and travelling.
-- strolling through forests.<!--🌳-->
-- pondering social questions.
+As a student, I led the robotic [Sailing Team Darmstadt e.V.](robotic_sailing) for several years and contributed to various open-source projects.
+During that time, I was also active as a freelance software engineer [for various clients](projects).
