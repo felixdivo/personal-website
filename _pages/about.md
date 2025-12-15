@@ -6,7 +6,7 @@ description: AI Researcher. Software Developer. Hobby Tinkerer.
 
 profile:
   align: right
-  image: prof_pic.svg
+  image: profile-pic.jpg
   address: >
     <p><a href="https://en.wikipedia.org/wiki/Darmstadt" target="_blank">Darmstadt, Germany</a></p>
 
